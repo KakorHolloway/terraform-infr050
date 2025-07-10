@@ -9,11 +9,11 @@
 clouds:
   openstack:
     auth:
-      auth_url: http://172.31.2.101/identity
+      auth_url: http://172.28.198.78/identity
       username: "admin"
-      project_id: 3169e56109f5476d851d9a7d7450198b
+      project_id: 3e738e81e4b947e496799a731716a1c3
       password: "B4teau123!"
-      project_name: "admin"
+      project_name: "terraform"
       user_domain_name: "Default"
     region_name: "RegionOne"
     interface: "public"
