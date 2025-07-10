@@ -1,3 +1,3 @@
 output "vm" {
-    #a remplir
+    value = openstack_compute_instance_v2.ipi-vm.name
 }
