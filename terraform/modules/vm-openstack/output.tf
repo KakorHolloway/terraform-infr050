@@ -1,0 +1,3 @@
+output "vm" {
+    #a remplir
+}
