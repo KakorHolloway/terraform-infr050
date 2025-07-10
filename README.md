@@ -32,3 +32,7 @@ https://releases.hashicorp.com/terraform/1.12.2/terraform_1.12.2_windows_amd64.z
 Copiez le fichier terraform.exe dans le dossier C:\Windows\System32
 
 Redémarrez VSCode ou votre shell pour confirmer.
+
+Adresse du cluster Openstack pour ceux qui ont des soucis avec leurs VM :
+
+http://5.196.223.219/dashboard/auth/login/?next=/dashboard/
