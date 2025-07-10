@@ -11,5 +11,7 @@ module "openstack-vm" {
     subnet_id = "<subnet id>
     name = "Nom de la vm"
     security_group_name = "Nom du security group"
+    project_name = openstack_identity_project_v3.ipi.name
+    project_id = openstack_identity_project_v3.ipi.id
 }
 ```
