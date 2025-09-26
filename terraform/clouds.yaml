@@ -13,7 +13,7 @@ clouds:
       username: "admin"
       project_id: 3e738e81e4b947e496799a731716a1c3
       password: "B4teau123!"
-      project_name: "terraform"
+      project_name: "admin"
       user_domain_name: "Default"
     region_name: "RegionOne"
     interface: "public"

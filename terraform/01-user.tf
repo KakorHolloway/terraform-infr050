@@ -1,3 +1,7 @@
+data "openstack_identity_user_v3" "admin" {
+  name = "admin"
+}
+
 resource "openstack_identity_user_v3" "ipi-user-1" {
   default_project_id = openstack_identity_project_v3.ipi.id
   name               = "user-01"
